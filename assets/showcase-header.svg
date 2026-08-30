@@ -13,10 +13,6 @@
   <circle cx="128" cy="148" r="7" fill="#FBBF24"/>
   <circle cx="152" cy="148" r="7" fill="#22C55E"/>
   <text x="184" y="154" fill="#64748B" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">adanastorg@github:~ ./wordmark.sh --name</text>
-  <text x="112" y="222" fill="#E5E7EB" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="38" xml:space="preserve">     ___       _      __</text>
-  <text x="112" y="272" fill="#E5E7EB" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="38" xml:space="preserve">    /   | ____/ /___ _/ /_</text>
-  <text x="112" y="322" fill="#E5E7EB" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="38" xml:space="preserve">   / /| |/ __  / __ `/ __ \</text>
-  <text x="112" y="372" fill="#E5E7EB" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="38" xml:space="preserve">  / ___ / /_/ / /_/ / / / /</text>
-  <text x="112" y="422" fill="#E5E7EB" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="38" xml:space="preserve"> /_/  |_\__,_/\__,_/_/ /_/</text>
-  <text x="112" y="432" fill="#22C55E" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="18">Information Science • data • automation • local AI workflows</text>
+  <text x="112" y="330" fill="#E5E7EB" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="128" font-weight="700">Aidan</text>
+  <text x="112" y="402" fill="#22C55E" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="18">Information Science • data • automation • local AI workflows</text>
 </svg>
